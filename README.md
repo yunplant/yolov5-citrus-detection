@@ -1,4 +1,4 @@
-# yolov5_citrus_detection
+# yolov5-citrus-detection
 
 ## AI
 
